@@ -1,4 +1,4 @@
-## 2019年华为测试题
+## 1. 2019年华为测试题
 > [**完整代码及相关NOTE**](https://github.com/pick-up-a-drop-of-water/Python_Notes/blob/master/Tests_Passed/huawei_test_handle_strings.py)
 >
 > 题目描述如下
@@ -65,5 +65,49 @@ asasdf 4abc3523 765rgfh4sd 3112
 45678901231234567890 231 234tjg44 23acd1 31
 12 4abc3523 765rgfh4sd BCA EFD FGED FGSD as
 asdf bca bda cccc dd efabcd efd
+"""
+```
+## 2. 2019年华为测试题
+> [**完整代码及相关NOTE**](https://github.com/pick-up-a-drop-of-water/Python_Notes/blob/master/Tests_Passed/huawei_test_handle_strings.py)
+>
+> 题目描述如下
+```python
+"""
+题目描述
+输入一个N阶方阵(0<N<10),输出此方阵顺时针旋转M(0<=M<=10000)次后的方阵
+旋转举例：（如下四个三阶方阵从上到下为数字围绕中心顺时针旋转）
+1 2 3
+4 5 6
+7 8 9
+
+7 4 1
+8 5 2
+9 6 3
+
+9 8 7
+6 5 4
+3 2 1
+
+3 6 9
+2 5 8
+1 4 7
+输入描述：
+输入第一行一个正整数N (0<N<10)
+接下来N行每行N个整数用空格分开，为方阵的数据
+接下来一行一个正整数M (0<=M<=10000)
+说明：不用考虑异常输入，所有输入都是正常的，严格遵从取值范围
+输出描述：
+N行，每行N个整数，用空格分开，为旋转后的数据
+示例1
+输入
+3
+1 2 3
+4 5 6
+7 8 9
+2
+输出
+9 8 7
+6 5 4
+3 2 1
 """
 ```
