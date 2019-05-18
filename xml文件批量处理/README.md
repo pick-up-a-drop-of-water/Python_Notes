@@ -1,4 +1,4 @@
-1. ##### 利用os xml模块
+2. ##### 利用os xml模块
 1. ##### 或用glob模块
 ```python
 import glob
