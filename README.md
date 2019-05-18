@@ -1,4 +1,5 @@
-
+# link shared :airplane:
+> - [Python 教程阅读简记](https://chyroc.cn/posts/python-tutorial-notes/)
 # Python_Notes :book:
 Record some magic commands or review codes!
 # Install tensorflow with conda in windows :smile:
