@@ -1,5 +1,5 @@
-##### 利用os xml模块
-##### 或用glob模块
+##### -利用os xml模块
+##### -或用glob模块
 ```python
 import glob
 glob.glob("*.txt")
