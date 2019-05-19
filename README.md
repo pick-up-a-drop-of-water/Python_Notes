@@ -221,7 +221,7 @@ pd.merge(df1, df2)
 pd.merge(df1, df2, on='col_name')
 '''
 ```
-## 其他重要操作
+## 其他重要操作 :+1:
 01. ### 合并数据帧
 ```python
 # miRNA_disease_data = pd.concat([miRNA_disease_pos_df, miRNA_disease_neg_df])
