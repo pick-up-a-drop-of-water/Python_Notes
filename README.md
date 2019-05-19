@@ -228,3 +228,10 @@ pd.merge(df1, df2, on='col_name')
 miRNA_disease_data = miRNA_disease_pos_df.append(miRNA_disease_neg_df)
 miRNA_disease_data = miRNA_disease_data.reset_index(drop=True)
 ```
+## [根据相关列的值从DataFrame中选择行](https://vimsky.com/article/3842.html)
+```python
+link2removed = ['D-65::mi-143', 'D-65::mi-144', 'D-65::mi-145', 'D-65::mi-156', 'D-65::mi-160', 'D-65::mi-180']
+ix_filtered = disease_miRNA_pos_df['links'].isin(link2removed)
+disease_miRNA_specify_pos_df = disease_miRNA_pos_df[ix_filtered].reset_index(drop=True)
+disease_miRNA_filtered_pos_df = disease_miRNA_pos_df[~ix_filtered].reset_index(drop=True)
+```
