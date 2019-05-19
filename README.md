@@ -221,14 +221,15 @@ pd.merge(df1, df2)
 pd.merge(df1, df2, on='col_name')
 '''
 ```
-## 合并数据帧
+## 其他重要操作
+### - 合并数据帧
 ```python
 # miRNA_disease_data = pd.concat([miRNA_disease_pos_df, miRNA_disease_neg_df])
 # or
 miRNA_disease_data = miRNA_disease_pos_df.append(miRNA_disease_neg_df)
 miRNA_disease_data = miRNA_disease_data.reset_index(drop=True)
 ```
-## 根据相关列的值从DataFrame中选择行
+### - 根据相关列的值从DataFrame中选择行
 > [参考链接](https://vimsky.com/article/3842.html)
 ```python
 link2removed = ['D-65::mi-143', 'D-65::mi-144', 'D-65::mi-145', 'D-65::mi-156', 'D-65::mi-160', 'D-65::mi-180']
