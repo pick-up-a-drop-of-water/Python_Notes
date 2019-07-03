@@ -1,5 +1,7 @@
 # link shared :airplane:
 > - [Python 教程阅读简记](https://chyroc.cn/posts/python-tutorial-notes/)
+> - 
+> - [python 语法之装饰器decorator](https://www.cnblogs.com/yutongzhu/p/5615764.html)
 # Python_Notes :book:
 Record some magic commands or review codes!
 # Install tensorflow with conda in windows :smile:
