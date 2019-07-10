@@ -1,9 +1,9 @@
-##### Links shared :airplane:
+## Links shared :airplane:
 > - [Python 教程阅读简记](https://chyroc.cn/posts/python-tutorial-notes/)
 > - [Python 语法之装饰器decorator](https://www.cnblogs.com/yutongzhu/p/5615764.html)
-##### Python_Notes :book:
+## Python Notes :book:
 > - Record some magic commands or review codes!
-##### Install tensorflow with conda in windows :smile:
+## Install tensorflow with conda in windows :smile:
 ```shell
 conda create -n mlbook python=3.5 anaconda
 conda activate mlbook
@@ -11,8 +11,8 @@ conda install --channel https://conda.anaconda.org/conda-forge tensorflow
 # optionally install Jupyter extensions
 conda install -n mlbook -c conda-forge jupyter_contrib_nbextensions
 ```
-##### Ipython :dart:
-###### magic commands :smirk:
+## Ipython :dart:
+### magic commands :smirk:
 1. %run xxx.py 运行python文件
 2. 若.py不在当前目录下，在ipython终端可以使用系统命令，比如cd、ls等等；cd 时，可以直接把文件拖到终端窗口，自动生成文件路径（Linux）
 3. %paste 复制粘贴板里的内容至终端（代码）
@@ -24,7 +24,7 @@ conda install -n mlbook -c conda-forge jupyter_contrib_nbextensions
 9. [Ipython快捷键](./pictures_stored/Ipython快捷键.png)
 10. [常用的魔术命令](./pictures_stored/Ipython常用的魔术命令.png)
 
-###### codes for numpy in Ipython :smile:
+### codes for numpy in Ipython :smile:
 
 ```python
 '''
@@ -95,7 +95,7 @@ np.random.randint(1,10)			# 返回一个指定区间1-10的随机数
 np.random.randint(1,10,5)		# 返回五个指定区间1-10的随机数
 np.random.randint(1,10,(3,5))		# 返回3x5的数组，指定区间1-10的随机数
 ```
-###### codes for pandas :smile:
+### codes for pandas :smile:
 
 ```python
 import pandas as pd
@@ -153,7 +153,7 @@ Out[65]:
 df.loc[[0,2],'two']		#列以标签解释
 df.iloc[[0,2],1]		#列以下标解释
 ```
-###### advancing codes for pandas :dart:
+### advancing codes for pandas :dart:
 
 ```python
 import pandas as pd
@@ -222,15 +222,15 @@ pd.merge(df1, df2)
 pd.merge(df1, df2, on='col_name')
 '''
 ```
-###### 其他重要操作 :+1:
-01. ###### 合并数据帧
+### 其他重要操作 :+1:
+01. ### 合并数据帧
 ```python
 # miRNA_disease_data = pd.concat([miRNA_disease_pos_df, miRNA_disease_neg_df])
 # or
 miRNA_disease_data = miRNA_disease_pos_df.append(miRNA_disease_neg_df)
 miRNA_disease_data = miRNA_disease_data.reset_index(drop=True)
 ```
-02. ###### 根据相关列的值从DataFrame中选择行
+02. ### 根据相关列的值从DataFrame中选择行
 > [参考链接](https://vimsky.com/article/3842.html)
 ```python
 link2removed = ['D-65::mi-143', 'D-65::mi-144', 'D-65::mi-145', 'D-65::mi-156', 'D-65::mi-160', 'D-65::mi-180']
