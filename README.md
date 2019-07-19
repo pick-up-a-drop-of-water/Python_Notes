@@ -238,3 +238,6 @@ ix_filtered = disease_miRNA_pos_df['links'].isin(link2removed)
 disease_miRNA_specify_pos_df = disease_miRNA_pos_df[ix_filtered].reset_index(drop=True)
 disease_miRNA_filtered_pos_df = disease_miRNA_pos_df[~ix_filtered].reset_index(drop=True)
 ```
+### 【不错的代码段】
+> 01.[format用途](https://github.com/pick-up-a-drop-of-water/Machine-Learning-Notes/blob/master/不错的代码段.md)
+
