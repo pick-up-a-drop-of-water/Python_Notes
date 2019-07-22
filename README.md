@@ -154,6 +154,7 @@ df.loc[[0,2],'two']		#列以标签解释
 df.iloc[[0,2],1]		#列以下标解释
 ```
 ### advancing codes for pandas :dart:
+> - 🔗[高效使用pandas](https://realpython.com/fast-flexible-pandas/)
 
 ```python
 import pandas as pd
