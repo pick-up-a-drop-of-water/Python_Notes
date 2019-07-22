@@ -17,3 +17,18 @@ for i in range(1000):
 ```
 #### 【显示进度条】
 > - [Tqdm模块的使用](https://blog.csdn.net/qq_33472765/article/details/82940843)
+#### 【显示运行时间】
+> - datetime模块的使用
+```python
+from datetime import datetime
+
+start_time = datetime.now()
+print("开始时间: ", start_time.strftime("%Y-%m-%d %H:%M:%S"))
+
+
+def display_runtime():
+    end_time = datetime.now()
+    print("结束时间: ", end_time.strftime("%Y-%m-%d %H:%M:%S"))
+    run_time = end_time - start_time
+    print("运行时间: ", run_time.seconds, "秒")
+```
