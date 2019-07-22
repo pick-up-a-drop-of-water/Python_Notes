@@ -15,3 +15,5 @@ for i in range(1000):
   for j in range(1000):
       print(f"\r{i}\t{j}\t{(i+j%10**4)}\t{j-i}", end="\t")
 ```
+#### 【显示进度条】
+> - [Tqdm模块的使用](https://blog.csdn.net/qq_33472765/article/details/82940843)
