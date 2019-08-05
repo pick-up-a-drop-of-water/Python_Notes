@@ -50,7 +50,7 @@ def calculate_metrics(labels, predictions, threshold=0.5):
         print("Tpr: {:.4f} ===> {:.2f}% ===> {:}/{:}".format(tpr, tpr * 100, TP, TP + FN))
         print("Fpr: {:.4f} ===> {:.2f}% ===> {:}/{:}\n".format(fpr, fpr * 100, FP, TN + FP))
     except ZeroDivisionError:
-        precision, recall, tpr, fpr = 0, 0, 0, 0
+        precision, recall, tpr, fpr = 1, 0, 0, 0
 
     return precision, recall, tpr, fpr
 
