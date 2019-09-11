@@ -20,3 +20,26 @@ np.random.choice(10, 10, replace=False)
 np.random.choice(10, 10, replace=True)
 # array([7, 1, 3, 9, 6, 3, 5, 9, 2, 9]) ==> 有重复数字3、9
 ```
+##### 3.排序
+> - 给定一个二维数组，按照差值大小，升序排列
+```python
+"""
+输入: [[13, 19], [4, 9], [10, 20]]
+输出：[[10, 20], [13, 19], [4, 9]]
+"""
+nums = [[13, 19], [4, 9], [10, 20]]
+nums.sort(key=lambda x: x[0] - x[1])   # 差值升序排序
+```
+> - 给定一个二维数组，按照每一行第二个元素，降序排列
+```python
+"""
+输入: [[13, 19], [4, 9], [10, 20]]
+输出: [[10, 20], [13, 19], [4, 9]] 
+"""
+# 输入数据生成二维数组: N * ?
+N = int(input())
+nums = [list(map(int, input().split())) for _ in range(N)]
+nums_sorted = sorted(nums, key=(lambda x: x[1]), reverse=True)
+# 当不需要保存nums排序前的值时，可这样使用
+# nums.sort(key=(lambda x: x[2]), reverse=True)
+```
