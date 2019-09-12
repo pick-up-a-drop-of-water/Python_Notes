@@ -43,3 +43,25 @@ nums_sorted = sorted(nums, key=(lambda x: x[1]), reverse=True)
 # 当不需要保存nums排序前的值时，可这样使用
 # nums.sort(key=(lambda x: x[2]), reverse=True)
 ```
+##### zip、map妙用:
+```python
+"""
+输入:
+    1 3 2
+    5 4 6
+    8 9 7
+输出：[3, 2] + [6, 5] + [9, 8]
+    [18, 15]
+"""
+m = 2
+ls_1 = list(map(int, input().split()))
+ls_1.sort(reverse=True)
+ls_2 = list(map(int, input().split()))
+ls_2.sort(reverse=True)
+ls_3 = list(map(int, input().split()))
+ls_3.sort(reverse=True)
+
+result = list(map(lambda x: x[0] + x[1] + x[2], zip(ls_1[:m], ls_2[:m], ls_3[:m])))
+
+print(result)
+```
