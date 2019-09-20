@@ -43,7 +43,7 @@ nums_sorted = sorted(nums, key=(lambda x: x[1]), reverse=True)
 # 当不需要保存nums排序前的值时，可这样使用
 # nums.sort(key=(lambda x: x[2]), reverse=True)
 ```
-##### zip、map妙用:
+##### 4.zip、map妙用:
 ```python
 """
 输入:
@@ -65,3 +65,5 @@ result = list(map(lambda x: x[0] + x[1] + x[2], zip(ls_1[:m], ls_2[:m], ls_3[:m]
 
 print(result)
 ```
+##### 5.快速生成A~Z字符数组
+str_ls = list(''.join(map(chr, range(65, 91))))
