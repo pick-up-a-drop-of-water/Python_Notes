@@ -1,11 +1,11 @@
 ### 可爬取的免费代理IP网站
->- 'http://www.66ip.cn/1.html'
->- 'http://www.ip3366.net/free/?stype=1&page=1'
->- 'http://www.kuaidaili.com/free/inha/1/'
->- 'http://www.xicidaili.com/nn/1'
->- 'http://www.ip3366.net/?stype=1&page=1'
->- 'http://www.iphai.com/'
->- 'http://www.data5u.com/'
+>- http://www.66ip.cn/1.html
+>- http://www.ip3366.net/free/?stype=1&page=1
+>- http://www.kuaidaili.com/free/inha/1/
+>- http://www.xicidaili.com/nn/1
+>- http://www.ip3366.net/?stype=1&page=1
+>- http://www.iphai.com/
+>- http://www.data5u.com/
     
 #### 采集海量IP，并筛选出有用的代理
 > - 高匿代理IP：隐藏本机的IP地址
