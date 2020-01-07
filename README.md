@@ -8,6 +8,7 @@
 - [返回目录](#Contents "点击跳转")
 ## 输出
 > - [输出技巧](https://github.com/pick-up-a-drop-of-water/Python_Notes/tree/master/%E8%BE%93%E5%87%BA%E6%8A%80%E5%B7%A7 "点击跳转")
+> - 利用pprint输出更方便阅览的结果，比如json格式的数据
 - [返回目录](#Contents "点击跳转")
 ## 爬虫
 > - [采集海量IP，构造代理IP池](https://github.com/pick-up-a-drop-of-water/Python_Notes/blob/master/%E7%88%AC%E8%99%AB/%E9%87%87%E9%9B%86%E6%B5%B7%E9%87%8FIP%E5%B9%B6%E7%AD%9B%E9%80%89%E6%9C%89%E7%94%A8%E7%9A%84%E4%BB%A3%E7%90%86/README.md "点击跳转")
