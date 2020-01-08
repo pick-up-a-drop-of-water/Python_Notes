@@ -1,4 +1,4 @@
-﻿### 说明 📘
+### 说明 📘
 > - **思路**
 >   1. 获取该歌手ID
 >   2. 获取该歌手的歌曲数量，及每页包含的歌曲数量
@@ -160,18 +160,24 @@ if __name__ == "__main__":
 
 
 ```
+
 ### 部分效果图
+
 > 原网页
 > <img src="https://img-blog.csdnimg.cn/20200108154620666.png" width = "70%" height = "20%" div align=left />
->  <img src="https://img-blog.csdnimg.cn/2020010815483437.png" width = "70%" height = "20%" div align=left />
+> <img src="https://img-blog.csdnimg.cn/2020010815483437.png" width = "70%" height = "20%" div align=left />
 
->  程序爬取
->  <img src="https://img-blog.csdnimg.cn/20200108154118895.png" width = "100%" height = "100%" div align=left />
+> 程序爬取
+> <img src="https://img-blog.csdnimg.cn/20200108154118895.png" width = "100%" height = "100%" div align=left />
 
->   下载的部分歌手的音乐
->    <img src="https://img-blog.csdnimg.cn/20200108155659431.png" width = "20%" height = "100%" div align=left />
+>  下载的部分歌手的音乐
+> <img src="https://img-blog.csdnimg.cn/20200108155659431.png" width = "20%" height = "100%" div align=left />
+
 
 ### The End
 > - 撒花✿✿ヽ(°▽°)ノ✿
 > - 更多爬虫项目传送门：[GitHub](https://github.com/pick-up-a-drop-of-water/Python_Notes/tree/master/%E7%88%AC%E8%99%AB/%E4%BC%9A%E5%90%AC%E9%9F%B3%E4%B9%90%E7%9A%84%E4%BA%BA%E6%9C%80cool%E4%BA%86)
-> 
+
+
+
+
