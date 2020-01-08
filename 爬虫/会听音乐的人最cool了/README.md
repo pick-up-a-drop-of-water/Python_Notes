@@ -8,7 +8,7 @@
 > - 关键点
 >   - json格式的数据写入与读取
 >   - 利用content保存音频等二进制文件
-```pytho
+```python
 
 import requests
 import re
