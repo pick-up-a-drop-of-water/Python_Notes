@@ -60,7 +60,7 @@ def get_song_links(song_id):
 def get_song_ids(singer_id, start='0'):
     params = {
         'start': start,       # 从第start开始的15首歌曲id，改变数字，获取更多的歌曲信息
-        'size': '15',       # 每页歌曲数
+        'size': '15',         # 每页歌曲数
         'ting_uid': singer_id,
         # '.r': '0.127372516911736341578451426991',
     }
@@ -68,7 +68,6 @@ def get_song_ids(singer_id, start='0'):
     response = requests.get(song_list_url, params=params)
     response.encoding = response.apparent_encoding              # 解决编码问题
     json_str = json.loads(response.text)['data']['html']        # 提取Ajax动态请求加载的html页面
-    # print(json_str)
     song_id_name_ls = re.findall('<a href="/song/(\\d+)".*?" title="(.*?)"', json_str, re.S)
     song_ids_ls = []
     song_name_ls = []
@@ -77,11 +76,6 @@ def get_song_ids(singer_id, start='0'):
         song_name_ls.append(id_name_tuple[1])
     print("、\t".join(song_name_ls))
     return song_ids_ls, song_name_ls
-    # response = requests.get("http://music.taihe.com/artist/{}".format(singer_id))
-    # response.encoding = response.apparent_encoding      # 解决编码问题
-    # song_ids_ls = re.findall('href="/song/(\\d+)', response.text, re.S)
-    # print(song_ids_ls)
-    # return song_ids_ls
 
 
 # 获取歌手ID
