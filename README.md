@@ -27,6 +27,8 @@
 ## Links shared :airplane:
 > - [Python 教程阅读简记](https://chyroc.cn/posts/python-tutorial-notes/)
 > - [Python 语法之装饰器decorator](https://www.cnblogs.com/yutongzhu/p/5615764.html)
+
+- [返回目录](#Contents "点击跳转")
 ## Python Notes :book:
 > - Record some magic commands or review codes!
 ## Install tensorflow with conda in windows :smile:
