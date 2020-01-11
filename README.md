@@ -15,9 +15,10 @@
 > - [采集博客+制作pdf](https://github.com/pick-up-a-drop-of-water/Python_Notes/tree/master/%E7%88%AC%E8%99%AB/%E9%87%87%E9%9B%86%E5%8D%9A%E5%AE%A2+%E5%88%B6%E4%BD%9Cpdf "更新ing")
 > - [爬取天气信息+twilio短信推送](https://github.com/pick-up-a-drop-of-water/Python_Notes/tree/master/%E7%88%AC%E8%99%AB/%E7%88%AC%E5%8F%96%E5%A4%A9%E6%B0%94%E4%BF%A1%E6%81%AF+twilio%E7%9F%AD%E4%BF%A1%E6%8E%A8%E9%80%81 "点击跳转")
 > - [个性签名设计](https://github.com/pick-up-a-drop-of-water/Python_Notes/tree/master/%E7%88%AC%E8%99%AB/%E4%B8%AA%E6%80%A7%E7%AD%BE%E5%90%8D "点击查看源代码"): 程序已打包为exe文件，感兴趣的可以[下载查看](https://pan.baidu.com/s/1ijvF9qtoR9mtHtE3cZA-kA "提取码: tpkd")
-> - [免券下载百度文库txt文件](https://github.com/pick-up-a-drop-of-water/Python_Notes/blob/master/%E7%88%AC%E8%99%AB/%E5%85%8D%E5%88%B8%E4%B8%8B%E8%BD%BD%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93txt%E6%95%B0%E6%8D%AE/README.md "点击跳转")
-> - [免券下载百度文库doc文件](https://github.com/pick-up-a-drop-of-water/Python_Notes/tree/master/%E7%88%AC%E8%99%AB/%E5%85%8D%E5%88%B8%E4%B8%8B%E8%BD%BD%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93doc%E6%96%87%E4%BB%B6 "点击跳转")
-> - [免券下载百度文库pdf文件](https://github.com/pick-up-a-drop-of-water/Python_Notes/tree/master/%E7%88%AC%E8%99%AB/%E5%85%8D%E5%88%B8%E4%B8%8B%E8%BD%BD%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93pdf%E6%96%87%E4%BB%B6 "点击跳转")
+> - **百度文库系列**
+> 	- [免券下载百度文库txt文件](https://github.com/pick-up-a-drop-of-water/Python_Notes/blob/master/%E7%88%AC%E8%99%AB/%E5%85%8D%E5%88%B8%E4%B8%8B%E8%BD%BD%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93txt%E6%95%B0%E6%8D%AE/README.md "点击跳转")
+> 	- [免券下载百度文库doc文件](https://github.com/pick-up-a-drop-of-water/Python_Notes/tree/master/%E7%88%AC%E8%99%AB/%E5%85%8D%E5%88%B8%E4%B8%8B%E8%BD%BD%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93doc%E6%96%87%E4%BB%B6 "点击跳转")
+> 	- [免券下载百度文库pdf文件](https://github.com/pick-up-a-drop-of-water/Python_Notes/tree/master/%E7%88%AC%E8%99%AB/%E5%85%8D%E5%88%B8%E4%B8%8B%E8%BD%BD%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93pdf%E6%96%87%E4%BB%B6 "点击跳转")
 > - [采集酷6整站视频](https://github.com/pick-up-a-drop-of-water/Python_Notes/tree/master/%E7%88%AC%E8%99%AB/%E9%87%87%E9%9B%86%E9%85%B76%E6%95%B4%E7%AB%99%E8%A7%86%E9%A2%91 "点击跳转")
 > - [会听音乐的人最cool了](https://github.com/pick-up-a-drop-of-water/Python_Notes/blob/master/%E7%88%AC%E8%99%AB/%E4%BC%9A%E5%90%AC%E9%9F%B3%E4%B9%90%E7%9A%84%E4%BA%BA%E6%9C%80cool%E4%BA%86/README.md "点击跳转")
 
