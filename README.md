@@ -13,26 +13,8 @@
 
 - [返回目录](#Contents "点击跳转")
 ## [文件处理](https://github.com/pick-up-a-drop-of-water/Python_Notes/tree/master/%E6%96%87%E4%BB%B6%E5%A4%84%E7%90%86)
-> - 文件状态
-```python
-import os
+> - 文件路径状态
 
-
-class Data(object):
-    @staticmethod
-    def save_data_path(data_save_path="./data/"):
-        if not os.path.exists(data_save_path):
-            os.makedirs(data_save_path)
-        return data_save_path
-
-    @staticmethod
-    def exist_file(file_path="./data/"):
-        if os.path.exists(file_path):
-            return True
-        else:
-            return False
-
-```
 
 - [返回目录](#Contents "点击跳转")
 ## 爬虫
