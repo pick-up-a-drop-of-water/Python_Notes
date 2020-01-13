@@ -1,6 +1,7 @@
 ### 文件保存与载入前事项
 > - 保存与载入前经常进行的操作：判断是否存在并据此创建相应目录
-#### code
+### code
+
 ```python
 import os
 
@@ -18,4 +19,5 @@ class Data(object):
             return True
         else:
             return False
+
 ```
