@@ -10,9 +10,10 @@
 ## 输出
 > - [输出技巧](https://github.com/pick-up-a-drop-of-water/Python_Notes/tree/master/%E8%BE%93%E5%87%BA%E6%8A%80%E5%B7%A7 "点击跳转")
 > - 利用pprint输出更方便阅览的结果，比如json格式的数据
+
 - [返回目录](#Contents "点击跳转")
 ## 文件保存
-> - 保存与载入前经常进行的操作
+> - 保存与载入前经常进行的操作：判断是否存在并据此创建相应目录
 ```python
 import os
 
