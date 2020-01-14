@@ -12,8 +12,8 @@
 > - 利用pprint输出更方便阅览的结果，比如json格式的数据
 
 - [返回目录](#Contents "点击跳转")
-## [文件处理](https://github.com/pick-up-a-drop-of-water/Python_Notes/tree/master/%E6%96%87%E4%BB%B6%E5%A4%84%E7%90%86)
-> - [文件路径状态](https://github.com/pick-up-a-drop-of-water/Python_Notes/blob/master/%E6%96%87%E4%BB%B6%E5%A4%84%E7%90%86/%E6%96%87%E4%BB%B6%E8%B7%AF%E5%BE%84%E7%8A%B6%E6%80%81%E6%9F%A5%E8%AF%A2.md)
+## [文件处理](https://github.com/pick-up-a-drop-of-water/Python_Notes/tree/master/%E6%96%87%E4%BB%B6%E5%A4%84%E7%90%86 "点击跳转")
+> - [文件路径状态](https://github.com/pick-up-a-drop-of-water/Python_Notes/blob/master/%E6%96%87%E4%BB%B6%E5%A4%84%E7%90%86/%E6%96%87%E4%BB%B6%E8%B7%AF%E5%BE%84%E7%8A%B6%E6%80%81%E6%9F%A5%E8%AF%A2.md "点击跳转")
 
 
 - [返回目录](#Contents "点击跳转")
