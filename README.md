@@ -32,6 +32,7 @@
 - [返回目录](#Contents "点击跳转")
 ## 易错点
 > - 爬取网页，保存html文件时，应该以utf-16格式保存，可避免出现html中的中文及特殊字符出现乱码
+> - 列表的深浅复制问题，尤其注意列表元素为类对象时进行的赋值操作，注意对象地址是否异同的问题，否则容易出现逻辑错误。
 - [返回目录](#Contents "点击跳转")
 ## Links shared :airplane:
 > - [Python 教程阅读简记](https://chyroc.cn/posts/python-tutorial-notes/)
