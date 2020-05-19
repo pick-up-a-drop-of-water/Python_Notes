@@ -1,3 +1,4 @@
+## [返回爬虫目录](https://github.com/pick-up-a-drop-of-water/Python_Notes#%E7%88%AC%E8%99%AB)
 ### 使用Session：保持Cookie
 > - Session是另一种记录客户状态的机制，不同的是 Cookie保存在客户端浏览器中，而 Session保存在服务器上。
 > - 客户端浏览器访问服务器的时候，服务器把客户端信息以某种形式记录在服务器上。客户端浏览器再次访问时只需要从该 session中查找该客户的状态就可以了，这就是 Session。
