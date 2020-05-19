@@ -28,7 +28,7 @@
 > 	- [免券下载百度文库pdf文件](https://github.com/pick-up-a-drop-of-water/Python_Notes/tree/master/%E7%88%AC%E8%99%AB/%E5%85%8D%E5%88%B8%E4%B8%8B%E8%BD%BD%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93pdf%E6%96%87%E4%BB%B6 "点击跳转")
 > - [采集酷6整站视频](https://github.com/pick-up-a-drop-of-water/Python_Notes/tree/master/%E7%88%AC%E8%99%AB/%E9%87%87%E9%9B%86%E9%85%B76%E6%95%B4%E7%AB%99%E8%A7%86%E9%A2%91 "点击跳转")
 > - [会听音乐的人最cool了](https://github.com/pick-up-a-drop-of-water/Python_Notes/blob/master/%E7%88%AC%E8%99%AB/%E4%BC%9A%E5%90%AC%E9%9F%B3%E4%B9%90%E7%9A%84%E4%BA%BA%E6%9C%80cool%E4%BA%86/README.md "点击跳转")
-> - [模拟登陆12306，解决验证码问题]()
+> - [模拟登陆12306，解决验证码问题](https://github.com/pick-up-a-drop-of-water/Python_Notes/tree/master/%E7%88%AC%E8%99%AB/%E6%A8%A1%E6%8B%9F%E7%99%BB%E9%99%8612306%EF%BC%8C%E8%A7%A3%E5%86%B3%E9%AA%8C%E8%AF%81%E7%A0%81%E9%97%AE%E9%A2%98 "点击跳转")
 - [返回目录](#Contents "点击跳转")
 ## 易错点
 > - 爬取网页，保存html文件时，应该以utf-16格式保存，可避免出现html中的中文及特殊字符出现乱码
